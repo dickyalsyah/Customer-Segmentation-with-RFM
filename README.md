@@ -19,12 +19,12 @@ These metrics are important indicators of a customer’s behavior because freque
 
     1. Objective Analysis: RFM utilizes objective, numerical scales that yield a concise and informative high-level depiction of customers.
     2. Simplicity: It is simple – marketers can use it effectively without the need for data scientists or sophisticated software.
-    3. Intuitiveness: The output of this segmentation method is easy to understand and interpret2.
-    4. Targeted Marketing: RFM analysis allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior. This can generate much higher rates of response, plus increased loyalty and customer lifetime value2.
+    3. Intuitiveness: The output of this segmentation method is easy to understand and interpret.
+    4. Targeted Marketing: RFM analysis allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior. This can generate much higher rates of response, plus increased loyalty and customer lifetime value.
     5. Customer Understanding: Smart marketers understand the importance of “know thy customer.” Instead of simply focusing on generating more clicks, marketers must follow the paradigm shift from increased CTRs (Click-Through Rates) to retention, loyalty, and building customer relationships1.
-    6. Homogeneous Customer Groups: Instead of analyzing the entire customer base as a whole, it’s better to segment them into homogeneous groups, understand the traits of each group, and engage them with relevant campaigns rather than segmenting on just customer age or geography1.
+    6. Homogeneous Customer Groups: Instead of analyzing the entire customer base as a whole, it’s better to segment them into homogeneous groups, understand the traits of each group, and engage them with relevant campaigns rather than segmenting on just customer age or geography.
 
-In summary, RFM helps divide customers into various categories or clusters to identify customers who are more likely to respond to promotions and also for future personalization services3. It takes into account multiple aspects of customer behavior, rather than just one3, making it a powerful tool for customer segmentation.
+In summary, RFM helps divide customers into various categories or clusters to identify customers who are more likely to respond to promotions and also for future personalization services. It takes into account multiple aspects of customer behavior, rather than just one, making it a powerful tool for customer segmentation.
 
 
 
